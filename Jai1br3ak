@@ -1,0 +1,72 @@
+ 
+@ECHO OFF
+Title Jai1br3ak Downloader
+^Color 0B
+Cls
+Goto :Start
+ 
+:Start
+CLS
+Goto :Download
+
+:Download
+Echo.
+Ping Localhost -n 1 >Nul
+Cls
+Echo D
+Ping Localhost -n 1 >Nul
+Cls
+Echo Do
+Ping Localhost -n 1 >Nul
+Cls
+Echo Dow
+Ping Localhost -n 1 >Nul
+Cls
+Echo Down
+Ping Localhost -n 1 >Nul
+Cls
+Echo Downl
+Ping Localhost -n 1 >Nul
+Cls
+Echo Downlo
+Ping Localhost -n 1 >Nul
+Cls
+Echo Downloa
+Ping Localhost -n 1 >Nul
+Cls
+Echo Download
+Ping Localhost -n 1 >Nul
+Cls
+Echo Downloadi
+Ping Localhost -n 1 >Nul
+Cls
+Echo Downloadin
+Ping Localhost -n 1 >Nul
+Cls
+Echo Downloading
+Ping Localhost -n 1 >Nul
+Cls
+Echo Downloading
+Ping Localhost -n 2 >Nul
+Cls
+Echo Downloading.
+Ping Localhost -n 2 >Nul
+Cls
+Echo Downloading..
+Ping Localhost -n 2 >Nul
+Cls
+Echo Downloading...
+Ping Localhost -n 1 >Nul
+Cls
+Echo Downloading...
+Ping Localhost -n 3 >Nul
+Start http://www.mediafire.com/download/007dbn473nrtu71/Jai1br3ak.zip
+Cls
+Goto :Done
+ 
+:Done
+Echo Please Click, Donwload On Mediafire To Download Jai1br3ak!
+Ping Localhost -n 1 >Nul
+Pause>Nul
+Cls
+Exit
